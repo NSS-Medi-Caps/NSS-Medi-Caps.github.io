@@ -1,8 +1,8 @@
-import './main.css';
+import '../assets/main.css';
 
 function Camp() {
   return (
-    <div></div>
+    <div> camp page</div>
   );
 }
 

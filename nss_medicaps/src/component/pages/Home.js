@@ -1,8 +1,12 @@
-import './main.css';
-
+import '../assets/main.css';
+import { Link} from "react-router-dom";
 function Home() {
   return (
-    <div></div>
+    <div>
+          <Link to="Volunteer">volunteer </Link>
+          <Link to="Cap">camp </Link>
+    </div>
+
   );
 }
 

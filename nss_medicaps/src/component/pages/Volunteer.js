@@ -1,8 +1,8 @@
-import './main.css';
-
+import '../assets/main.css';
+import { Link} from "react-router-dom";
 function Volunteer() {
   return (
-    <div></div>
+    <div>volunteer</div>
   );
 }
 

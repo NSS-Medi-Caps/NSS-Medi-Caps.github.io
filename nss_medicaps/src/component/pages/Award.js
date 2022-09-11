@@ -1,4 +1,4 @@
-import './main.css';
+import '../assets/main.css';
 
 function Award() {
   return (
